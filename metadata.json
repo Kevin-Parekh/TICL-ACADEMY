@@ -1,0 +1,6 @@
+{
+  "name": "Cognitive Edge",
+  "description": "Premier AI Academy bridging academic rigor and artificial intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
